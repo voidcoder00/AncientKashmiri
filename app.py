@@ -7582,10 +7582,10 @@ with tabs[7]:
             <div>
               <div style="font-family:'Cinzel',serif;font-size:8.5px;letter-spacing:1.5px;
                    color:var(--saffron);margin-bottom:3px">EMAIL · ईमेल</div>
-              <a href="mailto:avinashbhat1401@gmail.com"
+              <a href="mailto:avinash.ancientkashmiri@gmail.com"
                  style="font-family:'Cinzel',serif;font-size:14px;font-weight:500;
                         color:var(--walnut);text-decoration:none;letter-spacing:1px">
-                avinashbhat1401@gmail.com
+                avinash.ancientkashmiri@gmail.com
               </a>
             </div>
           </div>
